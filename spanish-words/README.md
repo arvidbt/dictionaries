@@ -1,5 +1,7 @@
 # Spanish Words
 
+![npm](https://img.shields.io/npm/dt/%40arvidbt/spanish-words)
+
 Package containing a dictionary of spanish words.
 
 Can be used for wordgames or other word packages such as _wordlib_.
@@ -8,5 +10,5 @@ Can be used for wordgames or other word packages such as _wordlib_.
 import { spanish_words } from "@arvidbt/spanish-words";
 import { WordLib } from "@arvidbt/wordlib";
 
-const enWords = new Wordlib(spanish_words);
+const esWords = new Wordlib(spanish_words);
 ```
