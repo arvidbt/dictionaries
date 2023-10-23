@@ -26,6 +26,5 @@ jest.config.js
 .eslintrc
 tsconfig.json
 CHANGELOG.md
-index.ts
 
 scripts/
